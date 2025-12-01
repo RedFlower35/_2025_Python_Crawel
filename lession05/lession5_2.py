@@ -26,9 +26,9 @@ def schedule_and_fare(page):
     depart_time = now.strftime("%H:%M")
 
     # 填入出發日期與時間
-    page.fill("#Departdate03", depart_date)
+    page.fill("#Departdate01", depart_date)
     page.fill("#outWardTime", depart_time)
-    page.click("#start-search")  # 點擊 查詢按鈕
+    page.locator("button",has_text="查詢").click()# 點擊 查詢按鈕
 
 
 def main():
@@ -48,9 +48,9 @@ def main():
 
 
 
-        page.wait_for_timeout(3000) # 停留 3 秒
+        page.wait_for_timeout(10000) # 停留 10 秒
 
-        browser.close()
+        # browser.close()
     
 if __name__ == "__main__":
     main()
