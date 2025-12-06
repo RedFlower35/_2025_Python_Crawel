@@ -21,3 +21,15 @@ https://youtube.com/live/qoTxIEteazM
 
 ###2025_11_22_下午
 https://youtube.com/live/rvDr2248zas
+
+###2025_11_29_早上
+https://www.youtube.com/watch?v=xb2grOXh7Ho
+
+###2025_11_29_下午
+https://www.youtube.com/watch?v=Sfz_rldoXIg
+
+###2025_12_06_早上
+https://www.youtube.com/watch?v=ANFl9KExoSc
+
+###2025_12_06_下午
+https://www.youtube.com/watch?v=yLRam3rxzEQ
