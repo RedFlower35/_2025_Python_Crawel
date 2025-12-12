@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=Sfz_rldoXIg
 
 ###2025_12_06_早上
 https://www.youtube.com/watch?v=ANFl9KExoSc
+    Colab 本地使用_
+    Crawl4ai網路爬蟲_52_35
+    AI中文化設定_1_49_30~2_06_00
+    同步執行(async)_2_22_40
 
 ###2025_12_06_下午
 https://www.youtube.com/watch?v=yLRam3rxzEQ

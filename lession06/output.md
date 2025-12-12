@@ -5,7 +5,6 @@
 
 
 [ ![web-logo](https://cdn.bnextmedia.com.tw/bn/images/web-logo.svg) ](https://www.bnext.com.tw/ "首頁\(home\)")
-[ ![2025行銷科技高峰會](https://bnextmedia.s3.hicloud.net.tw/pumpkin/image/photo/2025-11/img-1764230425-76641.gif) ](https://edm.bnext.com.tw/martech-trends/?utm_campaign=2025martech&utm_source=web_bn&utm_medium=logo_banner&utm_content=147301&utm_term=channel_all)
 新聞
 [最新新聞](https://www.bnext.com.tw/articles)
 [白話科技](https://www.bnext.com.tw/tags/%E7%99%BD%E8%A9%B1%E7%A7%91%E6%8A%80)
@@ -32,163 +31,163 @@
 [活動](https://www.bnext.com.tw/events) [課程](https://biz-school.bnextmedia.com.tw/neomarketing?utm_source=bn_web&utm_medium=home_header&utm_campaign=biz-school) [雜誌](https://www.bnext.com.tw/magazines)
 [登入](https://www.bnext.com.tw/auth/login?uri=https%3A%2F%2Fwww.bnext.com.tw&type=header&from=header "登入\(login\)") / [註冊](https://www.bnext.com.tw/auth/register?uri=https%3A%2F%2Fwww.bnext.com.tw&type=header&from=header "註冊\(registration\)")
 [熱門](https://www.bnext.com.tw/ranking) [新聞](https://www.bnext.com.tw/articles) [專題](https://www.bnext.com.tw/topics) [影音](https://www.bnext.com.tw/videos) [活動](https://www.bnext.com.tw/events)
-[](https://www.bnext.com.tw/article/85424/ipass-money-in-line-mini-app) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-01/img-1704276924-45074.jpg?w=600&output=webp)
-## 720萬用戶「還有一半沒來」！LINE Pay自立門戶才2天，一卡通火速出手LINE黃金版位
-[](https://www.bnext.com.tw/article/85417/warner-bros-and-netflix-exclusive-deal) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-11/img-1731638065-34010.jpg?w=600&output=webp)
-## 最終價格2.25兆元！Netflix吞下「HBO＋HBO Max」，成娛樂產業歷史最大規模交易
-[](https://www.bnext.com.tw/article/85421/global-ai-index) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764924896-18509.jpg?w=600&output=webp)
-## 2025全球AI指數出爐！從台灣各指標排名檢視AI發展：哪裡強？哪邊弱？
-[](https://www.bnext.com.tw/article/85414/coupang-taiwan-logistics-war) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-06/img-1748845322-83250.jpg?w=600&output=webp)
-## 燒錢3年也沒能搶走，酷澎再從哪跟momo打？從一筆247億元增資，看透電商龍頭最痛處
-[](https://www.bnext.com.tw/article/85427/ogilvy_branding_strategy_upgrate) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764930171-11329.jpg?w=600&output=webp)
-## AI 只能給均值，人味才是溢價關鍵！奧美高層揭示「品牌升級」的三道護城河
-[](https://www.bnext.com.tw/article/85420/dram-price-inversion-supply-demand) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2021-06/img-1624606068-65340.jpg?w=600&output=webp)
-## 觀點｜記憶體大亂流：DDR4比DDR5貴意味著什麼？下一步，PC與手機恐怕「漲定了」
-[](https://www.bnext.com.tw/article/85424/ipass-money-in-line-mini-app)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-01/img-1704276924-45074.jpg?w=600&output=webp)
-## 720萬用戶「還有一半沒來」！LINE Pay自立門戶才2天，一卡通火速出手LINE黃金版位
-一卡通宣布iPASS MONEY即日起上架LINE MINI App，才從LINE消失兩天，馬上另闢新窗口，一卡通能鞏固720萬用戶基數嗎？ 
-[金融科技](https://www.bnext.com.tw/categories/fintech) | 19 小時前
-[](https://www.bnext.com.tw/article/85417/warner-bros-and-netflix-exclusive-deal) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-11/img-1731638065-34010.jpg?w=600&output=webp)
-## 最終價格2.25兆元！Netflix吞下「HBO＋HBO Max」，成娛樂產業歷史最大規模交易
-[影音/新媒體](https://www.bnext.com.tw/categories/media) | 17 小時前
-* * *
-* * *
-[](https://www.bnext.com.tw/article/85421/global-ai-index)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764924896-18509.jpg?w=600&output=webp)
-## 2025全球AI指數出爐！從台灣各指標排名檢視AI發展：哪裡強？哪邊弱？
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 21 小時前
-[](https://www.bnext.com.tw/article/85414/coupang-taiwan-logistics-war)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-06/img-1748845322-83250.jpg?w=600&output=webp)
-## 燒錢3年也沒能搶走，酷澎再從哪跟momo打？從一筆247億元增資，看透電商龍頭最痛處
+[](https://www.bnext.com.tw/article/85492/retail-nextgen-trend) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4fz6-1765359339.jpg?w=600&output=webp)
+## 全聯押注次世代量販店、統一大開複合式商場，兩位老闆都看中這趨勢！從青埔店看懂零售新打法
+[](https://www.bnext.com.tw/article/85496/2025-hydrogen--linde-lienhwa-industrial-gases) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/czt6-1765432708.jpg?w=600&output=webp)
+## 台灣首座商業用加氫站正式落地！一座造價比加油站貴3倍，為何中油、聯華林德還要做？
+[](https://www.bnext.com.tw/article/85442/gemini-dynamic-view-interactive-interface-generator) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/18e5-1765182498.jpg?w=600&output=webp)
+## 台灣也能用了！實測Gemini「動態檢視」新功能，J人級儀表板怎麼做？提示詞一次收
+[](https://www.bnext.com.tw/article/85461/google-next-generation-ai-glasses-dual-styles) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/ay68-1765251948.png?w=600&output=webp)
+## Google進攻AI眼鏡！兩款新品2026上市：攜手Gentle Monster變帥潮配件，有望打趴Meta？
+[](https://www.bnext.com.tw/article/85390/taichung1203?utm_campaign=taichung2025&utm_source=web_bn&utm_medium=editor_select_small&utm_content=159336&utm_term=channel_all) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764742351-95818.jpg?w=600&output=webp)
+## 全台唯一！2025台中耶誕嘉年華《角落小夥伴》療癒登場
+[](https://www.bnext.com.tw/article/85445/netflix-warner-bro-acquisition) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2019-11/img-1574820567-67438.jpg?w=600&output=webp)
+## 「電影院模式過時了！」串流巨獸Netflix變身影業公敵：「彈性上映」為何恐殺死觀影體驗？
+[](https://www.bnext.com.tw/article/85492/retail-nextgen-trend)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4fz6-1765359339.jpg?w=600&output=webp)
+## 全聯押注次世代量販店、統一大開複合式商場，兩位老闆都看中這趨勢！從青埔店看懂零售新打法
+大全聯青埔店在12月10日登場試營運，睽違15年首次展店，全聯瞄準的「次世代量販商機」是什麼？如何與家樂福在量販戰場上對決？ 
 [新零售](https://www.bnext.com.tw/categories/newretail) | 1 天前
-[](https://www.bnext.com.tw/article/85427/ogilvy_branding_strategy_upgrate)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764930171-11329.jpg?w=600&output=webp)
-## AI 只能給均值，人味才是溢價關鍵！奧美高層揭示「品牌升級」的三道護城河
-20 小時前
-[](https://www.bnext.com.tw/article/85420/dram-price-inversion-supply-demand)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2021-06/img-1624606068-65340.jpg?w=600&output=webp)
-## 觀點｜記憶體大亂流：DDR4比DDR5貴意味著什麼？下一步，PC與手機恐怕「漲定了」
-20 小時前
+[](https://www.bnext.com.tw/article/85496/2025-hydrogen--linde-lienhwa-industrial-gases) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/czt6-1765432708.jpg?w=600&output=webp)
+## 台灣首座商業用加氫站正式落地！一座造價比加油站貴3倍，為何中油、聯華林德還要做？
+[能源環保](https://www.bnext.com.tw/categories/energy) | 8 小時前
+* * *
+* * *
+[](https://www.bnext.com.tw/article/85442/gemini-dynamic-view-interactive-interface-generator)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/18e5-1765182498.jpg?w=600&output=webp)
+## 台灣也能用了！實測Gemini「動態檢視」新功能，J人級儀表板怎麼做？提示詞一次收
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 3 天前
+[](https://www.bnext.com.tw/article/85461/google-next-generation-ai-glasses-dual-styles)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/ay68-1765251948.png?w=600&output=webp)
+## Google進攻AI眼鏡！兩款新品2026上市：攜手Gentle Monster變帥潮配件，有望打趴Meta？
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 2 天前
+[](https://www.bnext.com.tw/article/85390/taichung1203?utm_campaign=taichung2025&utm_source=web_bn&utm_medium=editor_select_small&utm_content=159336&utm_term=channel_all)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764742351-95818.jpg?w=600&output=webp)
+## 全台唯一！2025台中耶誕嘉年華《角落小夥伴》療癒登場
+Sponsored by 臺中市政府
+[](https://www.bnext.com.tw/article/85445/netflix-warner-bro-acquisition)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2019-11/img-1574820567-67438.jpg?w=600&output=webp)
+## 「電影院模式過時了！」串流巨獸Netflix變身影業公敵：「彈性上映」為何恐殺死觀影體驗？
+[影音/新媒體](https://www.bnext.com.tw/categories/media) | 3 天前
 * * *
 * * *
 最新新聞 
-[](https://www.bnext.com.tw/article/85412/slide-listener)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/9r4f-1764902686.png?w=600&output=webp)
-## 別拿技術細節轟炸老闆！微軟前高層親授簡報術：想搞定總經理級提案，先摸清聽眾底細
+[](https://www.bnext.com.tw/article/85488/mixboard)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/y96s-1765361908.png?w=600&output=webp)
+## 教學｜Mixboard把靈感畫布一鍵變身專業簡報，4種超好用功能實測給你看
 [職場/工作術](https://www.bnext.com.tw/categories/digitalskill) | 8 小時前
-[](https://www.bnext.com.tw/article/85417/warner-bros-and-netflix-exclusive-deal)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-11/img-1731638065-34010.jpg?w=600&output=webp)
-## 最終價格2.25兆元！Netflix吞下「HBO＋HBO Max」，成娛樂產業歷史最大規模交易
-[影音/新媒體](https://www.bnext.com.tw/categories/media) | 17 小時前
-[](https://www.bnext.com.tw/article/85424/ipass-money-in-line-mini-app)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-01/img-1704276924-45074.jpg?w=600&output=webp)
-## 720萬用戶「還有一半沒來」！LINE Pay自立門戶才2天，一卡通火速出手LINE黃金版位
-[金融科技](https://www.bnext.com.tw/categories/fintech) | 19 小時前
-[](https://www.bnext.com.tw/article/85420/dram-price-inversion-supply-demand)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2021-06/img-1624606068-65340.jpg?w=600&output=webp)
-## 觀點｜記憶體大亂流：DDR4比DDR5貴意味著什麼？下一步，PC與手機恐怕「漲定了」
-20 小時前
-[](https://www.bnext.com.tw/article/85192/what-is-cloudflare)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2017-02/img-1487934179-26617.png?w=600&output=webp)
-## Cloudflare又當機了！Cloudflare是什麼？為什麼一當機，全世界AI服務大受影響？
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 21 小時前
-[](https://www.bnext.com.tw/article/85421/global-ai-index)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764924896-18509.jpg?w=600&output=webp)
-## 2025全球AI指數出爐！從台灣各指標排名檢視AI發展：哪裡強？哪邊弱？
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 21 小時前
-[](https://www.bnext.com.tw/article/85409/memory-chip-shortage-phone-laptop-price)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2021-01/img-1611133994-11822.jpg?w=600&output=webp)
-## 記憶體十年一遇大危機！日本商家限制一次只能買8顆硬碟，中國手機筆電也悄悄漲價了
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 22 小時前
-[](https://www.bnext.com.tw/article/85298/restaurant-table-flippin)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764922516-39370.jpg?w=600&output=webp)
-## 圖解｜機器人挺進餐飲業，除了送餐，還有哪些玩法？
-[服務創新](https://www.bnext.com.tw/categories/service) | 22 小時前
-[](https://www.bnext.com.tw/article/85418/ai-teacher)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764921198-14149.jpg?w=600&output=webp)
-## 一位老師的反思：傳道、授業、解惑⋯當AI做得更好，我還能為學生做什麼？
-[教育/人文](https://www.bnext.com.tw/categories/humanity) | 22 小時前
-[](https://www.bnext.com.tw/article/85236/line-pay-money-faq)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/v7yf-1764047572.jpg?w=600&output=webp)
-## 影音｜「我LINE Pay給你」，其實用的是iPASS MONEY轉帳功能！雙方有什麼不同？懶人包來了
-[金融科技](https://www.bnext.com.tw/categories/fintech) | 1 天前
-[](https://www.bnext.com.tw/article/85414/coupang-taiwan-logistics-war)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-06/img-1748845322-83250.jpg?w=600&output=webp)
-## 燒錢3年也沒能搶走，酷澎再從哪跟momo打？從一筆247億元增資，看透電商龍頭最痛處
+[](https://www.bnext.com.tw/article/85496/2025-hydrogen--linde-lienhwa-industrial-gases)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/czt6-1765432708.jpg?w=600&output=webp)
+## 台灣首座商業用加氫站正式落地！一座造價比加油站貴3倍，為何中油、聯華林德還要做？
+[能源環保](https://www.bnext.com.tw/categories/energy) | 8 小時前
+[](https://www.bnext.com.tw/article/85451/water-sommelier)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/ci9b-1765438314.jpg?w=600&output=webp)
+## 專訪｜全台僅百人的稀有金飯碗！讓喝水變成專業技能，「品水師」在做什麼？
+[創新創業](https://www.bnext.com.tw/categories/entrepreneurship) | 8 小時前
+[](https://www.bnext.com.tw/article/85503/jeep-taiwan-auto-market-change)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765438580-87935.jpg?w=600&output=webp)
+## 「只是開始而已⋯」美國吉普車品牌Jeep暌違15年重返台灣，汽車業將掀洗牌效應？
+[電動車/交通科技](https://www.bnext.com.tw/categories/car) | 9 小時前
+[](https://www.bnext.com.tw/article/85189/cathay1121)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763699897-44904.jpg?w=600&output=webp)
+## 終於出現「看得懂的保險」！國泰人壽以「保險視圖」引領資訊透明革命
+Sponsored by 國泰人壽
+[](https://www.bnext.com.tw/article/85501/pxmart-chiangpu-electronic-labels)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/9dct-1765359689.jpg?w=600&output=webp)
+## 全聯拚了！砸40億幫全台千家門市換電子標籤，董事長林敏雄：省下人力工時「一定划算」
+[新零售](https://www.bnext.com.tw/categories/newretail) | 10 小時前
+[](https://www.bnext.com.tw/article/85435/hong-kong-web3-policy-rwa-and-stablecoins)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765165097-95159.jpg?w=600&output=webp)
+## 觀點｜十三部門聯合治理後，香港Web3歷史十字路口？揭露RWA與穩定幣政策急轉彎內幕
+[區塊鏈](https://www.bnext.com.tw/categories/blockchain) | 11 小時前
+[](https://www.bnext.com.tw/article/85499/stitch-by-google-shipmas-update-gemini-prototypes)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/ex5n-1765424392.jpg?w=600&output=webp)
+## Google Stitch推出熱點圖！不用寫程式，讓你一眼先看透用戶視線焦點
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 13 小時前
+[](https://www.bnext.com.tw/article/85498/ai-command-evolution)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765420291-31334.jpg?w=600&output=webp)
+## 我被 AI 嫌「沒效率」後，學會一套更聰明指令思維！現在重複工作幾乎都能自動搞定了
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 14 小時前
+[](https://www.bnext.com.tw/article/85497/finance/taiwan-financial-holdings-profit-2025)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765418810-75080.jpg?w=600&output=webp)
+## 一表看懂13家金控獲利！國泰金單月狂賺146.2億登獲利王 ，這6家前11月賺贏一整年
+[金融科技](https://www.bnext.com.tw/categories/fintech) | 15 小時前
+[](https://www.bnext.com.tw/article/85495/chatgpt-foundations-for-teachers)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4e79-1765350112.png?w=600&output=webp)
+## OpenAI也推官方證照了！免費線上課、4小時就能拿證書，課程內容、註冊步驟一次看
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 15 小時前
+[](https://www.bnext.com.tw/article/85492/retail-nextgen-trend)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4fz6-1765359339.jpg?w=600&output=webp)
+## 全聯押注次世代量販店、統一大開複合式商場，兩位老闆都看中這趨勢！從青埔店看懂零售新打法
 [新零售](https://www.bnext.com.tw/categories/newretail) | 1 天前
-[](https://www.bnext.com.tw/article/85413/meta-strategic-shift-from-metaverse-to-ai-wearables)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/b78a-1764905231.jpg?w=600&output=webp)
-## 元宇宙夢醒了？Meta擬刪30％預算「最快1月裁員」：4年燒光700億美元，祖克柏改押寶AI眼鏡
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 1 天前
-[](https://www.bnext.com.tw/article/85412/slide-listener) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/9r4f-1764902686.png?w=600&output=webp)
-## 別拿技術細節轟炸老闆！微軟前高層親授簡報術：想搞定總經理級提案，先摸清聽眾底細
+[](https://www.bnext.com.tw/article/85488/mixboard) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/y96s-1765361908.png?w=600&output=webp)
+## 教學｜Mixboard把靈感畫布一鍵變身專業簡報，4種超好用功能實測給你看
 [職場/工作術](https://www.bnext.com.tw/categories/digitalskill) | 8 小時前
-[](https://www.bnext.com.tw/article/85417/warner-bros-and-netflix-exclusive-deal) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-11/img-1731638065-34010.jpg?w=600&output=webp)
-## 最終價格2.25兆元！Netflix吞下「HBO＋HBO Max」，成娛樂產業歷史最大規模交易
-[影音/新媒體](https://www.bnext.com.tw/categories/media) | 17 小時前
-[](https://www.bnext.com.tw/article/85424/ipass-money-in-line-mini-app) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2024-01/img-1704276924-45074.jpg?w=600&output=webp)
-## 720萬用戶「還有一半沒來」！LINE Pay自立門戶才2天，一卡通火速出手LINE黃金版位
-[金融科技](https://www.bnext.com.tw/categories/fintech) | 19 小時前
-[](https://www.bnext.com.tw/article/85420/dram-price-inversion-supply-demand) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2021-06/img-1624606068-65340.jpg?w=600&output=webp)
-## 觀點｜記憶體大亂流：DDR4比DDR5貴意味著什麼？下一步，PC與手機恐怕「漲定了」
-20 小時前
-[](https://www.bnext.com.tw/article/85192/what-is-cloudflare) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2017-02/img-1487934179-26617.png?w=600&output=webp)
-## Cloudflare又當機了！Cloudflare是什麼？為什麼一當機，全世界AI服務大受影響？
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 21 小時前
-[](https://www.bnext.com.tw/article/85421/global-ai-index) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764924896-18509.jpg?w=600&output=webp)
-## 2025全球AI指數出爐！從台灣各指標排名檢視AI發展：哪裡強？哪邊弱？
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 21 小時前
-[](https://www.bnext.com.tw/article/85409/memory-chip-shortage-phone-laptop-price) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2021-01/img-1611133994-11822.jpg?w=600&output=webp)
-## 記憶體十年一遇大危機！日本商家限制一次只能買8顆硬碟，中國手機筆電也悄悄漲價了
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 22 小時前
-[](https://www.bnext.com.tw/article/85298/restaurant-table-flippin) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764922516-39370.jpg?w=600&output=webp)
-## 圖解｜機器人挺進餐飲業，除了送餐，還有哪些玩法？
-[服務創新](https://www.bnext.com.tw/categories/service) | 22 小時前
-[](https://www.bnext.com.tw/article/85418/ai-teacher) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764921198-14149.jpg?w=600&output=webp)
-## 一位老師的反思：傳道、授業、解惑⋯當AI做得更好，我還能為學生做什麼？
-[教育/人文](https://www.bnext.com.tw/categories/humanity) | 22 小時前
-[](https://www.bnext.com.tw/article/85236/line-pay-money-faq) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/v7yf-1764047572.jpg?w=600&output=webp)
-## 影音｜「我LINE Pay給你」，其實用的是iPASS MONEY轉帳功能！雙方有什麼不同？懶人包來了
-[金融科技](https://www.bnext.com.tw/categories/fintech) | 1 天前
-[](https://www.bnext.com.tw/article/85414/coupang-taiwan-logistics-war) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-06/img-1748845322-83250.jpg?w=600&output=webp)
-## 燒錢3年也沒能搶走，酷澎再從哪跟momo打？從一筆247億元增資，看透電商龍頭最痛處
+[](https://www.bnext.com.tw/article/85496/2025-hydrogen--linde-lienhwa-industrial-gases) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/czt6-1765432708.jpg?w=600&output=webp)
+## 台灣首座商業用加氫站正式落地！一座造價比加油站貴3倍，為何中油、聯華林德還要做？
+[能源環保](https://www.bnext.com.tw/categories/energy) | 8 小時前
+[](https://www.bnext.com.tw/article/85451/water-sommelier) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/ci9b-1765438314.jpg?w=600&output=webp)
+## 專訪｜全台僅百人的稀有金飯碗！讓喝水變成專業技能，「品水師」在做什麼？
+[創新創業](https://www.bnext.com.tw/categories/entrepreneurship) | 8 小時前
+[](https://www.bnext.com.tw/article/85503/jeep-taiwan-auto-market-change) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765438580-87935.jpg?w=600&output=webp)
+## 「只是開始而已⋯」美國吉普車品牌Jeep暌違15年重返台灣，汽車業將掀洗牌效應？
+[電動車/交通科技](https://www.bnext.com.tw/categories/car) | 9 小時前
+[](https://www.bnext.com.tw/article/85189/cathay1121) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763699897-44904.jpg?w=600&output=webp)
+## 終於出現「看得懂的保險」！國泰人壽以「保險視圖」引領資訊透明革命
+Sponsored by 國泰人壽
+[](https://www.bnext.com.tw/article/85501/pxmart-chiangpu-electronic-labels) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/9dct-1765359689.jpg?w=600&output=webp)
+## 全聯拚了！砸40億幫全台千家門市換電子標籤，董事長林敏雄：省下人力工時「一定划算」
+[新零售](https://www.bnext.com.tw/categories/newretail) | 10 小時前
+[](https://www.bnext.com.tw/article/85435/hong-kong-web3-policy-rwa-and-stablecoins) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765165097-95159.jpg?w=600&output=webp)
+## 觀點｜十三部門聯合治理後，香港Web3歷史十字路口？揭露RWA與穩定幣政策急轉彎內幕
+[區塊鏈](https://www.bnext.com.tw/categories/blockchain) | 11 小時前
+[](https://www.bnext.com.tw/article/85499/stitch-by-google-shipmas-update-gemini-prototypes) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/ex5n-1765424392.jpg?w=600&output=webp)
+## Google Stitch推出熱點圖！不用寫程式，讓你一眼先看透用戶視線焦點
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 13 小時前
+[](https://www.bnext.com.tw/article/85498/ai-command-evolution) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765420291-31334.jpg?w=600&output=webp)
+## 我被 AI 嫌「沒效率」後，學會一套更聰明指令思維！現在重複工作幾乎都能自動搞定了
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 14 小時前
+[](https://www.bnext.com.tw/article/85497/finance/taiwan-financial-holdings-profit-2025) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765418810-75080.jpg?w=600&output=webp)
+## 一表看懂13家金控獲利！國泰金單月狂賺146.2億登獲利王 ，這6家前11月賺贏一整年
+[金融科技](https://www.bnext.com.tw/categories/fintech) | 15 小時前
+[](https://www.bnext.com.tw/article/85495/chatgpt-foundations-for-teachers) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4e79-1765350112.png?w=600&output=webp)
+## OpenAI也推官方證照了！免費線上課、4小時就能拿證書，課程內容、註冊步驟一次看
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 15 小時前
+[](https://www.bnext.com.tw/article/85492/retail-nextgen-trend) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4fz6-1765359339.jpg?w=600&output=webp)
+## 全聯押注次世代量販店、統一大開複合式商場，兩位老闆都看中這趨勢！從青埔店看懂零售新打法
 [新零售](https://www.bnext.com.tw/categories/newretail) | 1 天前
-[](https://www.bnext.com.tw/article/85413/meta-strategic-shift-from-metaverse-to-ai-wearables) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/b78a-1764905231.jpg?w=600&output=webp)
-## 元宇宙夢醒了？Meta擬刪30％預算「最快1月裁員」：4年燒光700億美元，祖克柏改押寶AI眼鏡
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 1 天前
 更多+ 
 影音新聞 
-[ ![](https://i1.ytimg.com/vi/lOZyZV304Ck/maxresdefault.jpg) ](https://www.bnext.com.tw/video/1163) [ ![](https://i2.ytimg.com/vi/-N6o3P3M-o0/hqdefault.jpg) ](https://www.bnext.com.tw/video/1113) [ ![](https://i2.ytimg.com/vi/Q7mLw2bKsLI/hqdefault.jpg) ](https://www.bnext.com.tw/video/1085) [ ![](https://i4.ytimg.com/vi/3Zc6EKxNsLk/hqdefault.jpg) ](https://www.bnext.com.tw/video/989)
-[ #ai 關鍵材料，#ccl 是什麼？跟PCB差異是？概念股有哪些？｜TECH AWAY ](https://www.bnext.com.tw/video/1163) [ #自駕車 2兆美元超巨大商機，台灣瘋搶！「車子自己開」離我們還有多遠？｜解數一下 ](https://www.bnext.com.tw/video/1113) [ 是「真AI」還是噱頭？直擊UG如何用「AI製茶」顛覆手搖業、刷新台灣手搖營收天花板？ ](https://www.bnext.com.tw/video/1085) [ iPhone 17來了！Pro大變身、Air史上最輕薄，還有哪些亮點？｜20250910 ](https://www.bnext.com.tw/video/989)
+[ ![](https://i3.ytimg.com/vi/JdjhrGIAotU/maxresdefault.jpg) ](https://www.bnext.com.tw/video/1176) [ ![](https://i1.ytimg.com/vi/lOZyZV304Ck/maxresdefault.jpg) ](https://www.bnext.com.tw/video/1163) [ ![](https://i2.ytimg.com/vi/Q7mLw2bKsLI/hqdefault.jpg) ](https://www.bnext.com.tw/video/1085) [ ![](https://i4.ytimg.com/vi/3Zc6EKxNsLk/hqdefault.jpg) ](https://www.bnext.com.tw/video/989)
+[ 面試靠AI作弊？AI決定你能不能找到工作！求職市場大海嘯，員工跟老闆怎麼鬥法？｜解數一下 ](https://www.bnext.com.tw/video/1176) [ #ai 關鍵材料，#ccl 是什麼？跟PCB差異是？概念股有哪些？｜TECH AWAY ](https://www.bnext.com.tw/video/1163) [ 是「真AI」還是噱頭？直擊UG如何用「AI製茶」顛覆手搖業、刷新台灣手搖營收天花板？ ](https://www.bnext.com.tw/video/1085) [ iPhone 17來了！Pro大變身、Air史上最輕薄，還有哪些亮點？｜20250910 ](https://www.bnext.com.tw/video/989)
 [ 看更多 ](https://www.bnext.com.tw/videos)
 數位行銷學院 
-[ ![8/5 GET職場必殺技│打造AI自動化工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-4848-20251119121134.jpg?w=600&output=webp) 8/5 GET職場必殺技│打造AI自動化工作流 08/05 活動詳情 ](https://edm.managertoday.com.tw/logic_of_ai/2026q3/) [ ![5/7 AI Ready 管理實戰│降本增效的團隊工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-1752-20251124153753.jpg?w=600&output=webp) 5/7 AI Ready 管理實戰│降本增效的團隊工作流 05/07 活動詳情 ](https://edm.bnext.com.tw/aileader/2026q2/) [ ![3/18 深度會員經營｜2026 打造最強會員變現引擎](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-3253-20251118151354.jpg?w=600&output=webp) 3/18 深度會員經營｜2026 打造最強會員變現引擎 03/18 活動詳情 ](https://eventgo.bnextmedia.com.tw/event/detail/e21612u6916e6334f525)
-[ ![8/5 GET職場必殺技│打造AI自動化工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-4848-20251119121134.jpg?w=600&output=webp) 8/5 GET職場必殺技│打造AI自動化工作流 08/05 活動詳情 ](https://edm.managertoday.com.tw/logic_of_ai/2026q3/) [ ![5/7 AI Ready 管理實戰│降本增效的團隊工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-1752-20251124153753.jpg?w=600&output=webp) 5/7 AI Ready 管理實戰│降本增效的團隊工作流 05/07 活動詳情 ](https://edm.bnext.com.tw/aileader/2026q2/) [ ![3/18 深度會員經營｜2026 打造最強會員變現引擎](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-3253-20251118151354.jpg?w=600&output=webp) 3/18 深度會員經營｜2026 打造最強會員變現引擎 03/18 活動詳情 ](https://eventgo.bnextmedia.com.tw/event/detail/e21612u6916e6334f525)
+[ ![10/14 深度會員經營｜2026 打造最強會員變現引擎](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-3253-20251118151354.jpg?w=600&output=webp) 10/14 深度會員經營｜2026 打造最強會員變現引擎 10/14 活動詳情 ](https://edm.bnext.com.tw/member/) [ ![8/5 GET職場必殺技│打造AI自動化工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-4848-20251119121134.jpg?w=600&output=webp) 8/5 GET職場必殺技│打造AI自動化工作流 08/05 活動詳情 ](https://edm.managertoday.com.tw/logic_of_ai/2026q3/) [ ![5/7 AI Ready 管理實戰│降本增效的團隊工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765350527-31928.jpg?w=600&output=webp) 5/7 AI Ready 管理實戰│降本增效的團隊工作流 05/07 活動詳情 ](https://edm.bnext.com.tw/aileader/2026q2/)
+[ ![10/14 深度會員經營｜2026 打造最強會員變現引擎](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-3253-20251118151354.jpg?w=600&output=webp) 10/14 深度會員經營｜2026 打造最強會員變現引擎 10/14 活動詳情 ](https://edm.bnext.com.tw/member/) [ ![8/5 GET職場必殺技│打造AI自動化工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/image-4848-20251119121134.jpg?w=600&output=webp) 8/5 GET職場必殺技│打造AI自動化工作流 08/05 活動詳情 ](https://edm.managertoday.com.tw/logic_of_ai/2026q3/) [ ![5/7 AI Ready 管理實戰│降本增效的團隊工作流](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765350527-31928.jpg?w=600&output=webp) 5/7 AI Ready 管理實戰│降本增效的團隊工作流 05/07 活動詳情 ](https://edm.bnext.com.tw/aileader/2026q2/)
 [ 更多數位行銷學院 » ](https://biz-school.bnextmedia.com.tw/neomarketing?utm_source=bn_web&utm_medium=home_bottombutton&utm_campaign=biz-school)
 ![](https://cdn.bnextmedia.com.tw/cdnbn/assets/images/podcast-logo-wide.jpg)
-## [EP 265. 產業專家怎麼看2026年？哪些新領域和新面孔值得關注？ ft. Counterpoint研究總監劉景民 ](https://www.bnext.com.tw/podcast/1175/bn-sound-20251204104603-uzivtz4c) ## [記者茶水間195.85度C撤出中國後，美食-KY憑哪2個關鍵優勢，全力投注美國市場？ ](https://www.bnext.com.tw/podcast/1167/bn-sound-20251201200147-rmrr8zwx) ## [數位關鍵字216.AI都會做簡報了，人類還有什麼價值？從負債到賺回4000萬的簡報翻身術 feat.蘇書平Steve ](https://www.bnext.com.tw/podcast/1166/bn-sound-20251130191512-b3nu32u2)
+## [記者茶水間196.鴻勁精密掛牌首日飆破3000元！它到底是誰？深入解析台股超級黑馬 ](https://www.bnext.com.tw/podcast/1183/bn-sound-20251208193130-bkfz8wbj) ## [數位關鍵字217.為什麼你的 AI POC 總是失敗？三大關鍵原因與破解之道ft. 吳振和 CH ](https://www.bnext.com.tw/podcast/1182/bn-sound-20251207155534-rcnuff97) ## [EP 265. 產業專家怎麼看2026年？哪些新領域和新面孔值得關注？ ft. Counterpoint研究總監劉景民 ](https://www.bnext.com.tw/podcast/1175/bn-sound-20251204104603-uzivtz4c)
 ![](https://cdn.bnextmedia.com.tw/cdnbn/assets/images/podcast-logo.jpg)
 🎧 白話解析最新科技趨勢與新商業機會，說數位、訪專家、談實戰，讓轉型決策有最前端的觀點與策略思考！
 [ 看所有單集 » ](https://podcasts.apple.com/tw/podcast/%E6%95%B8%E4%BD%8D%E6%99%82%E4%BB%A3-business-next/id1555393924)
-## [EP 265. 產業專家怎麼看2026年？哪些新領域和新面孔值得關注？ ft. Counterpoint研究總監劉景民 AI基礎設施主導2025的電子業發展，包含晶片、先進封裝、伺服器到散熱機櫃，以及相關零件和次系統......  ](https://www.bnext.com.tw/podcast/1175/bn-sound-20251204104603-uzivtz4c) ## [記者茶水間195.85度C撤出中國後，美食-KY憑哪2個關鍵優勢，全力投注美國市場？ 餐飲界又有新變局！連鎖咖啡店85度C的母公司「美食-KY」日前在中國宣布大規模關店，反觀美國市場營收表現倒吃甘吃甘蔗...  ](https://www.bnext.com.tw/podcast/1167/bn-sound-20251201200147-rmrr8zwx) ## [數位關鍵字216.AI都會做簡報了，人類還有什麼價值？從負債到賺回4000萬的簡報翻身術 feat.蘇書平Steve 當Notebook LM可以幫你總結一本書，Gamma都能生成專業簡報，我們是不是真的不需要動腦了？只要課金付費、下對prompt就能完成工作？  ](https://www.bnext.com.tw/podcast/1166/bn-sound-20251130191512-b3nu32u2)
+## [記者茶水間196.鴻勁精密掛牌首日飆破3000元！它到底是誰？深入解析台股超級黑馬 鴻勁精密掛牌首日，股價就飆破3000元，成為台股最強黑馬，躍升最貴半導體設備股！這是一家什麼樣的公司？憑什麼衝上台股天花板？  ](https://www.bnext.com.tw/podcast/1183/bn-sound-20251208193130-bkfz8wbj) ## [數位關鍵字217.為什麼你的 AI POC 總是失敗？三大關鍵原因與破解之道ft. 吳振和 CH 2025 年 AI 全面爆發，每家企業都在談 AI 轉型，但研究報告卻指出大部分 AI 專案最終以失敗收場...  ](https://www.bnext.com.tw/podcast/1182/bn-sound-20251207155534-rcnuff97) ## [EP 265. 產業專家怎麼看2026年？哪些新領域和新面孔值得關注？ ft. Counterpoint研究總監劉景民 AI基礎設施主導2025的電子業發展，包含晶片、先進封裝、伺服器到散熱機櫃，以及相關零件和次系統......  ](https://www.bnext.com.tw/podcast/1175/bn-sound-20251204104603-uzivtz4c)
 白話科技 
-[](https://www.bnext.com.tw/article/82328/tech-edge-ai) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-02/img-1739859977-13787.jpg?w=600&output=webp)
-## 白話科技｜邊緣運算是什麼？概念股有哪些？「邊緣運算＋AI」商機起飛
-[](https://www.bnext.com.tw/article/82328/tech-edge-ai)
-![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-02/img-1739859977-13787.jpg?w=600&output=webp)
-## 白話科技｜邊緣運算是什麼？概念股有哪些？「邊緣運算＋AI」商機起飛
-DeepSeek橫空出世，帶動邊緣運算和邊緣AI的討論，到底邊緣運算是什麼？概念股有哪些？未來市場動態如何？ 
-[AI與大數據](https://www.bnext.com.tw/categories/ai) | 9 個月前
+[](https://www.bnext.com.tw/article/83719/what-is-ai-alignment) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-06/img-1750991495-79308.jpg?w=600&output=webp)
+## 影片｜AI對齊是什麼？OpenAI大將為它出走、新創募到20億美元超狂資金！
+[](https://www.bnext.com.tw/article/83719/what-is-ai-alignment)
+![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-06/img-1750991495-79308.jpg?w=600&output=webp)
+## 影片｜AI對齊是什麼？OpenAI大將為它出走、新創募到20億美元超狂資金！
+「AI對齊」指的是，確保AI的目標能與其設計者的意圖以及社會價值一致。 
+[AI與大數據](https://www.bnext.com.tw/categories/ai) | 3 個月前
 [ 更多白話科技 » ](https://www.bnext.com.tw/tags/%E7%99%BD%E8%A9%B1%E7%A7%91%E6%8A%80)
+[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765345104-87831.jpg?w=600&output=webp) 深度專題  ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765345104-87831.jpg?w=600&output=webp) 一樁收購案，預示Netflix超級巨獸即將誕生？ 1 「好萊塢真的嚇壞了」記者深入追蹤後揭不為人知細節：Netflix為收購案天天開會？HBO劇集最後命運是？ 2 Netflix和華納殺出程咬金！派拉蒙發起敵意收購，一次看懂哪方條件最香？誰是關鍵人物？ 3 「電影院模式過時了！」串流巨獸Netflix變身影業公敵：「彈性上映」為何恐殺死觀影體驗？ ](https://www.bnext.com.tw/topic/view/934)
+[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764736750-75089.jpg?w=600&output=webp) 深度專題  ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764736750-75089.jpg?w=600&output=webp) 決戰新世代：國家級晶片計畫驅動臺灣IC設計業，邁向先進製程與關鍵新興領域 1 用眼神操控未來！見臻科技如何打造全球最小眼動追蹤技術，踩在AI浪潮下搶攻人機互動新契機 2 從掃地機器人到智慧座艙，凌陽科技C5晶片如何在AI時代掌握邊緣算力主控權？ 3 AI浪潮下的眼睛革命：信驊科技如何用一顆晶片，看見產業未來 ](https://www.bnext.com.tw/topic/view/930)
 [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/xfmi-1763990027.jpg?w=600&output=webp) 深度專題  ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/xfmi-1763990027.jpg?w=600&output=webp) 模組化資料中心是什麼？一個「鐵盒子」，改寫全球算力遊戲規則 1 圖解｜模組化資料中心是什麼？一個「鐵盒子」，改寫全球算力遊戲規則 2 左拉東元、右抓軟銀、再邀OpenAI入局！揭秘鴻海三件合作案背後大棋 3 大家忙結盟， 他早早搞定一條龍！ 靠3次併購，百年老將施耐德拿下連黃仁勳都缺的技術 ](https://www.bnext.com.tw/topic/view/931)
 [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764527448-11502.jpeg?w=600&output=webp) 深度專題  ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764527448-11502.jpeg?w=600&output=webp) 從基礎科學到國家力量：2025年總統科學獎寫下臺灣科技躍升的關鍵篇章 1 總統科學獎揭曉！梁賡義院士、葉均蔚院士用創新與堅持，寫下臺灣科學光輝新頁 2 2025年總統科學獎〉跨界40年！梁賡義院士在產官學研間，搭建科技、人文間橋樑 3 2025年總統科學獎〉沒有前人就自己開路！「高熵合金之父」葉均蔚院士，引領全球材料新革命 ](https://www.bnext.com.tw/topic/view/928)
-[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763694911-30140.jpg?w=600&output=webp) 深度專題  ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763694911-30140.jpg?w=600&output=webp) AI殺不死Google，卻讓Google更強大了！ 1 Google重回AI霸主！Gemini 3橫掃市場背後：TPU助攻，強大生態網讓對手沒得玩 2 從Netscape歷史慘痛經驗解析最新AI大戰：OpenAI掰了？Google終將占領城池？ 3 當輝達還在舞台走秀，Google悄悄亮出底牌了！第七代TPU「Ironwood」如何將AI戰爭升級至下半場？ ](https://www.bnext.com.tw/topic/view/927)
-[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/417w-1763514739.jpg?w=600&output=webp) 深度專題  ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/417w-1763514739.jpg?w=600&output=webp) 店員消失了、機器人來了！自動化設備正顛覆餐飲市場 1 店員消失了、機器人來了！全台逾4成餐廳都在用自動化設備，為什麼還是無法解「業者的痛」？ 2 台灣自助點餐機市占龍頭！星益欣緊抓2大秘訣，讓業者、婆媽都超愛用 3 「連鼎泰豐都用了⋯」台灣送餐機器人始祖禾煜，靠什麼讓饗賓、乾杯等大咖都導入機器人？ ](https://www.bnext.com.tw/topic/view/926)
 專家觀點 
-[ ![吳金榮](https://image-cdn.learnin.tw/bnextmedia/image/album/2022-05/img-1653280475-50833.jpg?w=600&output=webp) 觀點｜記憶體大亂流：DDR4比DDR5貴意味著什麼？下一步，PC與手機恐怕「漲定了」 吳金榮 ](https://www.bnext.com.tw/article/85420/dram-price-inversion-supply-demand) [ ![陳育詮](https://cdn.bnextmedia.com.tw/img/blank-profile.jpg) 一位老師的反思：傳道、授業、解惑⋯當AI做得更好，我還能為學生做什麼？ 陳育詮 ](https://www.bnext.com.tw/article/85418/ai-teacher) [ ![扛布者-為紡織而活的男子](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764560706-41677.jpg?w=600&output=webp) 國民品牌NET靠什麼活到現在的？憑一點關鍵優勢，讓它逃過快電商刀下亡魂 扛布者-為紡織而活的男子 ](https://www.bnext.com.tw/article/85343/net) [ ![吳金榮](https://image-cdn.learnin.tw/bnextmedia/image/album/2022-05/img-1653280475-50833.jpg?w=600&output=webp) 觀點｜Google TPU「十年磨一劍」：它無意取代GPU，光是提供次佳方案就是門好生意 吳金榮 ](https://www.bnext.com.tw/article/85346/google-launches-gemini-3-and-tpu-market-shift)
+[ ![果殼 Mr.Shell](https://image-cdn.learnin.tw/bnextmedia/image/album/2023-01/img-1672803088-16117.jpg?w=600&output=webp) 觀點｜十三部門聯合治理後，香港Web3歷史十字路口？揭露RWA與穩定幣政策急轉彎內幕 果殼 Mr.Shell ](https://www.bnext.com.tw/article/85435/hong-kong-web3-policy-rwa-and-stablecoins) [ ![廖炯程](https://cdn.bnextmedia.com.tw/img/blank-profile.jpg) 傳統市場3年倒閉91個！一位賣菜者的觀察：當「菜市仔」消失，我們失去的是什麼？ 廖炯程 ](https://www.bnext.com.tw/article/85439/traditional-markets-are-declining) [ ![吳金榮](https://image-cdn.learnin.tw/bnextmedia/image/album/2022-05/img-1653280475-50833.jpg?w=600&output=webp) 觀點｜記憶體大亂流：DDR4比DDR5貴意味著什麼？下一步，PC與手機恐怕「漲定了」 吳金榮 ](https://www.bnext.com.tw/article/85420/dram-price-inversion-supply-demand) [ ![陳育詮](https://cdn.bnextmedia.com.tw/img/blank-profile.jpg) 一位老師的反思：傳道、授業、解惑⋯當AI做得更好，我還能為學生做什麼？ 陳育詮 ](https://www.bnext.com.tw/article/85418/ai-teacher)
+[ ![果殼 Mr.Shell](https://image-cdn.learnin.tw/bnextmedia/image/album/2023-01/img-1672803088-16117.jpg?w=600&output=webp) 觀點｜十三部門聯合治理後，香港Web3歷史十字路口？揭露RWA與穩定幣政策急轉彎內幕 果殼 Mr.Shell ](https://www.bnext.com.tw/article/85435/hong-kong-web3-policy-rwa-and-stablecoins) [ ![廖炯程](https://cdn.bnextmedia.com.tw/img/blank-profile.jpg) 傳統市場3年倒閉91個！一位賣菜者的觀察：當「菜市仔」消失，我們失去的是什麼？ 廖炯程 ](https://www.bnext.com.tw/article/85439/traditional-markets-are-declining)
 [ ![吳金榮](https://image-cdn.learnin.tw/bnextmedia/image/album/2022-05/img-1653280475-50833.jpg?w=600&output=webp) 觀點｜記憶體大亂流：DDR4比DDR5貴意味著什麼？下一步，PC與手機恐怕「漲定了」 吳金榮 ](https://www.bnext.com.tw/article/85420/dram-price-inversion-supply-demand) [ ![陳育詮](https://cdn.bnextmedia.com.tw/img/blank-profile.jpg) 一位老師的反思：傳道、授業、解惑⋯當AI做得更好，我還能為學生做什麼？ 陳育詮 ](https://www.bnext.com.tw/article/85418/ai-teacher)
-[ ![扛布者-為紡織而活的男子](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764560706-41677.jpg?w=600&output=webp) 國民品牌NET靠什麼活到現在的？憑一點關鍵優勢，讓它逃過快電商刀下亡魂 扛布者-為紡織而活的男子 ](https://www.bnext.com.tw/article/85343/net) [ ![吳金榮](https://image-cdn.learnin.tw/bnextmedia/image/album/2022-05/img-1653280475-50833.jpg?w=600&output=webp) 觀點｜Google TPU「十年磨一劍」：它無意取代GPU，光是提供次佳方案就是門好生意 吳金榮 ](https://www.bnext.com.tw/article/85346/google-launches-gemini-3-and-tpu-market-shift)
 [ 更多觀點 » ](https://www.bnext.com.tw/columns)
 六大社群 
 ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_m_industry.png) 產業應用
@@ -197,69 +196,69 @@ DeepSeek橫空出世，帶動邊緣運算和邊緣AI的討論，到底邊緣運�
 ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_m_entrepreneurship.png) 創新創業
 ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_m_martech.png) 行銷與Martech
 ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_m_developer.png) 程式開發
-[ 機器人沒AI就是爛鐵！所羅門靠「點睛全餐」掃千萬大單：光靠賣軟體金額不大 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764842009-67808.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85291/soloman-ai-robot) [ 美光震撼彈！宣布退出「Crucial」消費型記憶體品牌：預計明年2月收攤，資源全押AI資料中心 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/x6jw-1764833279.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85401/micron-exits-crucial-consumer-memory-division-focuses-on-ai-market) [ 以為蓋AI機房要整層樓？台達電說一個車位就OK！把全套基礎設施塞進貨櫃，3個月就能讓AI上工 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/yi7t-1763629544.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85181/delta-modular-datacenter-ai-2025)
+[ 看、釘、鑽挑戰骨科達文西！炳碩這隻機器「妙手」能學真人醫師的蛋雕手感 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765267829-27893.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85302/point-robotics-medtech) [ Gmail「管理訂閱項目」台灣也能用了！怎樣快速檢視訂閱信件、退訂？3步驟完整教學 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765334337-35885.jpeg?w=600&output=webp) ](https://www.bnext.com.tw/article/85485/gmail-manage-subscriptions) [ 奧運國手賽後都要它！緯創醫學推「會代償」的智慧外骨骼，研發契機有洋蔥 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765266952-76940.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85301/wistron-med-tech)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/industry)
-[ 自學總是卡關？這個 prompt 我實測過了：費曼學習法 × AI，讓「我還是不懂」成學習最佳助力！ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764822947-58900.jpg?w=600&output=webp) ](https://fc.bnext.com.tw/articles/view/4299) [ 不會 code 也能建 AI 代理團隊！Google Workspace Studio 登場，如何用它打造企業級自動化？ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/w1qj-1764818006.png?w=600&output=webp) ](https://fc.bnext.com.tw/articles/view/4295) [ Google 釋出 Nano Banana Pro 生圖黃金法則！品牌形象圖、YouTube 封面…9 種提示詞一次收 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/qt65-1764818012.jpg?w=600&output=webp) ](https://fc.bnext.com.tw/articles/view/4298)
+[ 月付 650 塊，我該升級 Google AI pro 嗎？與免費版差在哪？付費方案、適用對象一次看 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/9mma-1765352633.png?w=600&output=webp) ](https://fc.bnext.com.tw/articles/view/4294) [ OpenAI 首推官方證照，助 AI 技能升級又加薪！免費證照怎麼拿？課程內容、註冊步驟一次看 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4e79-1765350112.png?w=600&output=webp) ](https://fc.bnext.com.tw/articles/view/4310) [ 冷鏈物流難招人，有解了！如何利用 AI 辨識影像讓員工不再受凍，還省下 80%電費？ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763166076-69257.jpg?w=600&output=webp) ](https://fc.bnext.com.tw/articles/view/4308)
 [ 查看所有文章 » ](https://fc.bnext.com.tw)
-[ 燒錢3年也沒能搶走，酷澎再從哪跟momo打？從一筆247億元增資，看透電商龍頭最痛處 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-06/img-1748845322-83250.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85414/coupang-taiwan-logistics-war) [ 旅天下預計明年Q1上櫃！發行價暫定每股58元：衝刺全台100家門市，拚當「實體通路王」 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/mg7h-1764725585.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85381/2025-uni-travel) [ 國民品牌NET靠什麼活到現在的？憑一點關鍵優勢，讓它逃過快電商刀下亡魂 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764666345-46516.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85343/net)
+[ 全聯拚了！砸40億幫全台千家門市換電子標籤，董事長林敏雄：省下人力工時「一定划算」 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/9dct-1765359689.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85501/pxmart-chiangpu-electronic-labels) [ 全聯押注次世代量販店、統一大開複合式商場，兩位老闆都看中這趨勢！從青埔店看懂零售新打法 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/4fz6-1765359339.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85492/retail-nextgen-trend) [ 「我全部承擔」酷澎個資外流風暴延燒，韓國代表請辭！母公司找他救火 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765356337-71547.jpeg?w=600&output=webp) ](https://www.bnext.com.tw/article/85491/coupang-data-breach-2025)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/newretail)
-[ 專訪｜把QQ麻糬口感賣進美國超市、首月營收就破300萬，這個台灣人是誰？ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764581458-71330.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85380/kiukiu-founder-john-liu) [ 眠豆腐日本行銷操盤手揭秘：用「情緒」當破口、「台式款待」收服東京人，一年賣出破萬張床墊！ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1764144606-42467.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85279/sleepytofujp) [ 2025 Meet Taipei｜今年逾5.5萬人參觀，更鞏固其作為亞洲新創鏈結核心的地位！ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1764047740-60690.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85244/-meet-taipei2025ai)
+[ 專訪｜全台僅百人的稀有金飯碗！讓喝水變成專業技能，「品水師」在做什麼？ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/ci9b-1765438314.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85451/water-sommelier) [ 沒找到真實痛點，有AI也沒用！日本最強企業創投CEO解析台灣新創一個通病、兩大強項 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764748963-23446.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85466/zvc-ceo-in-joon-hwang) [ 決策桌上的虛擬團員：臺大 EiMBA 如何將 AI 從「工具」升級為「共創夥伴」？ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764827743-46892.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85398/eimba202512)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/entrepreneurship)
-[ Z世代意思是什麼？嬰兒潮、X、Y、Z、α世代差在哪？一張圖理解「五代差異」 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2019-03/img-1553419439-97097.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/63653/marketing-5.0) [ 東京著衣後再戰時尚圈，周品均一支手機衝出破億營收！她怎麼靠直播養出「配飯粉」？ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763101816-22504.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85107/wstyle-ceo) [ AI 行銷新工具來了！Pomelli 是什麼？3大功能，幫你客製化行銷素材 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-10/uuwd-1761795230.png?w=600&output=webp) ](https://www.bnext.com.tw/article/84952/pomelli-)
+[ Uber每天跑來跑去，數據可以用來做什麼？最新策略：賣給行銷人，轉動廣告的飛輪 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/xsbu-1765253624.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85465/uber-intelligence-innovative-data-integration-revolutionizes-marketing) [ Z世代意思是什麼？嬰兒潮、X、Y、Z、α世代差在哪？一張圖理解「五代差異」 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2019-03/img-1553419439-97097.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/63653/marketing-5.0) [ 東京著衣後再戰時尚圈，周品均一支手機衝出破億營收！她怎麼靠直播養出「配飯粉」？ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763101816-22504.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/85107/wstyle-ceo)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/martech)
 [ Vibe Coding教學｜一次性驗證碼卡關？5步驟教你如何收到驗證碼，不用麻煩主揪了！ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-10/img-1759483494-97384.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/84640/ott-auto-password) [ Vibe Coding教學｜表單收納怎麼做？2步驟搞定麻煩報表！與ChatGPT協作完整對話一次看 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-10/img-1759815075-45167.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/84641/vibe-coding-combo) [ Vibe Coding方便不可隨便！開發者大神DHH、氛圍開發之父卡帕斯揭AI寫程式須知 ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-10/img-1759818829-46246.jpg?w=600&output=webp) ](https://www.bnext.com.tw/article/84651/dhh-openai-vibe)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/developer)
 [ ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_industry.png) 產業應用 ](https://www.bnext.com.tw/categories/industry)
-[ 機器人沒AI就是爛鐵！所羅門靠「點睛全餐」掃千萬大單：光靠賣軟體金額不大 2025.12.04 ](https://www.bnext.com.tw/article/85291/soloman-ai-robot) [ 美光震撼彈！宣布退出「Crucial」消費型記憶體品牌：預計明年2月收攤，資源全押AI資料中心 2025.12.04 ](https://www.bnext.com.tw/article/85401/micron-exits-crucial-consumer-memory-division-focuses-on-ai-market) [ 以為蓋AI機房要整層樓？台達電說一個車位就OK！把全套基礎設施塞進貨櫃，3個月就能讓AI上工 2025.12.04 ](https://www.bnext.com.tw/article/85181/delta-modular-datacenter-ai-2025)
+[ 看、釘、鑽挑戰骨科達文西！炳碩這隻機器「妙手」能學真人醫師的蛋雕手感 2025.12.10 ](https://www.bnext.com.tw/article/85302/point-robotics-medtech) [ Gmail「管理訂閱項目」台灣也能用了！怎樣快速檢視訂閱信件、退訂？3步驟完整教學 2025.12.10 ](https://www.bnext.com.tw/article/85485/gmail-manage-subscriptions) [ 奧運國手賽後都要它！緯創醫學推「會代償」的智慧外骨骼，研發契機有洋蔥 2025.12.10 ](https://www.bnext.com.tw/article/85301/wistron-med-tech)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/industry)
 [ ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_fc.png) 未來商務 ](https://fc.bnext.com.tw)
-[ 自學總是卡關？這個 prompt 我實測過了：費曼學習法 × AI，讓「我還是不懂」成學習最佳助力！ 2025.12.06 ](https://fc.bnext.com.tw/articles/view/4299) [ 不會 code 也能建 AI 代理團隊！Google Workspace Studio 登場，如何用它打造企業級自動化？ 2025.12.05 ](https://fc.bnext.com.tw/articles/view/4295) [ Google 釋出 Nano Banana Pro 生圖黃金法則！品牌形象圖、YouTube 封面…9 種提示詞一次收 2025.12.05 ](https://fc.bnext.com.tw/articles/view/4298)
+[ 月付 650 塊，我該升級 Google AI pro 嗎？與免費版差在哪？付費方案、適用對象一次看 2025.12.11 ](https://fc.bnext.com.tw/articles/view/4294) [ OpenAI 首推官方證照，助 AI 技能升級又加薪！免費證照怎麼拿？課程內容、註冊步驟一次看 2025.12.11 ](https://fc.bnext.com.tw/articles/view/4310) [ 冷鏈物流難招人，有解了！如何利用 AI 辨識影像讓員工不再受凍，還省下 80%電費？ 2025.12.11 ](https://fc.bnext.com.tw/articles/view/4308)
 [ 查看所有文章 » ](https://fc.bnext.com.tw)
 [ ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_newretail.png) 新零售 ](https://www.bnext.com.tw/categories/newretail)
-[ 燒錢3年也沒能搶走，酷澎再從哪跟momo打？從一筆247億元增資，看透電商龍頭最痛處 2025.12.05 ](https://www.bnext.com.tw/article/85414/coupang-taiwan-logistics-war) [ 旅天下預計明年Q1上櫃！發行價暫定每股58元：衝刺全台100家門市，拚當「實體通路王」 2025.12.04 ](https://www.bnext.com.tw/article/85381/2025-uni-travel) [ 國民品牌NET靠什麼活到現在的？憑一點關鍵優勢，讓它逃過快電商刀下亡魂 2025.12.02 ](https://www.bnext.com.tw/article/85343/net)
+[ 全聯拚了！砸40億幫全台千家門市換電子標籤，董事長林敏雄：省下人力工時「一定划算」 2025.12.11 ](https://www.bnext.com.tw/article/85501/pxmart-chiangpu-electronic-labels) [ 全聯押注次世代量販店、統一大開複合式商場，兩位老闆都看中這趨勢！從青埔店看懂零售新打法 2025.12.10 ](https://www.bnext.com.tw/article/85492/retail-nextgen-trend) [ 「我全部承擔」酷澎個資外流風暴延燒，韓國代表請辭！母公司找他救火 2025.12.10 ](https://www.bnext.com.tw/article/85491/coupang-data-breach-2025)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/newretail)
 [ ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_entrepreneurship.png) 創新創業 ](https://www.bnext.com.tw/categories/entrepreneurship)
-[ 專訪｜把QQ麻糬口感賣進美國超市、首月營收就破300萬，這個台灣人是誰？ 2025.12.04 ](https://www.bnext.com.tw/article/85380/kiukiu-founder-john-liu) [ 眠豆腐日本行銷操盤手揭秘：用「情緒」當破口、「台式款待」收服東京人，一年賣出破萬張床墊！ 2025.12.01 ](https://www.bnext.com.tw/article/85279/sleepytofujp) [ 2025 Meet Taipei｜今年逾5.5萬人參觀，更鞏固其作為亞洲新創鏈結核心的地位！ 2025.11.26 ](https://www.bnext.com.tw/article/85244/-meet-taipei2025ai)
+[ 專訪｜全台僅百人的稀有金飯碗！讓喝水變成專業技能，「品水師」在做什麼？ 2025.12.11 ](https://www.bnext.com.tw/article/85451/water-sommelier) [ 沒找到真實痛點，有AI也沒用！日本最強企業創投CEO解析台灣新創一個通病、兩大強項 2025.12.09 ](https://www.bnext.com.tw/article/85466/zvc-ceo-in-joon-hwang) [ 決策桌上的虛擬團員：臺大 EiMBA 如何將 AI 從「工具」升級為「共創夥伴」？ 2025.12.09 ](https://www.bnext.com.tw/article/85398/eimba202512)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/entrepreneurship)
 [ ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_martech.png) 行銷與Martech ](https://www.bnext.com.tw/categories/martech)
-[ Z世代意思是什麼？嬰兒潮、X、Y、Z、α世代差在哪？一張圖理解「五代差異」 2025.11.18 ](https://www.bnext.com.tw/article/63653/marketing-5.0) [ 東京著衣後再戰時尚圈，周品均一支手機衝出破億營收！她怎麼靠直播養出「配飯粉」？ 2025.11.14 ](https://www.bnext.com.tw/article/85107/wstyle-ceo) [ AI 行銷新工具來了！Pomelli 是什麼？3大功能，幫你客製化行銷素材 2025.10.31 ](https://www.bnext.com.tw/article/84952/pomelli-)
+[ Uber每天跑來跑去，數據可以用來做什麼？最新策略：賣給行銷人，轉動廣告的飛輪 2025.12.09 ](https://www.bnext.com.tw/article/85465/uber-intelligence-innovative-data-integration-revolutionizes-marketing) [ Z世代意思是什麼？嬰兒潮、X、Y、Z、α世代差在哪？一張圖理解「五代差異」 2025.11.18 ](https://www.bnext.com.tw/article/63653/marketing-5.0) [ 東京著衣後再戰時尚圈，周品均一支手機衝出破億營收！她怎麼靠直播養出「配飯粉」？ 2025.11.14 ](https://www.bnext.com.tw/article/85107/wstyle-ceo)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/martech)
 [ ![](https://cdn.bnextmedia.com.tw/bn/images/category/bn_gp_developer.png) 程式開發 ](https://www.bnext.com.tw/categories/developer)
 [ Vibe Coding教學｜一次性驗證碼卡關？5步驟教你如何收到驗證碼，不用麻煩主揪了！ 2025.10.09 ](https://www.bnext.com.tw/article/84640/ott-auto-password) [ Vibe Coding教學｜表單收納怎麼做？2步驟搞定麻煩報表！與ChatGPT協作完整對話一次看 2025.10.09 ](https://www.bnext.com.tw/article/84641/vibe-coding-combo) [ Vibe Coding方便不可隨便！開發者大神DHH、氛圍開發之父卡帕斯揭AI寫程式須知 2025.10.08 ](https://www.bnext.com.tw/article/84651/dhh-openai-vibe)
 [ 查看所有文章 » ](https://www.bnext.com.tw/categories/developer)
 商業情報 
-[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764930171-11329.jpg?w=600&output=webp) AI 只能給均值，人味才是溢價關鍵！奧美高層揭示「品牌升級」的三道護城河 Sponsored by 新商業學校 ](https://www.bnext.com.tw/article/85427/ogilvy_branding_strategy_upgrate) [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764920793-46046.jpg?w=600&output=webp) 智慧和數位、減碳和永續並進！商業發展署攜手服務業，解鎖雙軸轉型心法 Sponsored by 經濟部商業發展署 ](https://www.bnext.com.tw/article/85419/2025meet-taipei-ai) [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764579389-80133.jpg?w=600&output=webp) 極致「在地 X 數位」綜效：林山農選以 LINE官方帳號 玩出分眾行銷新高度 Sponsored by LINE Biz-Solutions ](https://www.bnext.com.tw/article/85324/linshan1201) [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764570439-51143.jpg?w=600&output=webp) 科技驅動創新轉型，信義房屋、Cancell 與 The North Face 以 LINE 優化營運績效 Sponsored by LINE Biz-Solutions ](https://www.bnext.com.tw/article/85318/linebizsolutionsawards20251201)
-[](https://www.bnext.com.tw/article/85427/ogilvy_branding_strategy_upgrate) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764930171-11329.jpg?w=600&output=webp)
-## AI 只能給均值，人味才是溢價關鍵！奧美高層揭示「品牌升級」的三道護城河
-Sponsored by 新商業學校
-[](https://www.bnext.com.tw/article/85419/2025meet-taipei-ai) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764920793-46046.jpg?w=600&output=webp)
-## 智慧和數位、減碳和永續並進！商業發展署攜手服務業，解鎖雙軸轉型心法
-Sponsored by 經濟部商業發展署
-[](https://www.bnext.com.tw/article/85324/linshan1201) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764579389-80133.jpg?w=600&output=webp)
-## 極致「在地 X 數位」綜效：林山農選以 LINE官方帳號 玩出分眾行銷新高度
+[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765251529-99548.jpg?w=600&output=webp) 快點行銷助 Decathlon 以 LINE 會員專屬活動翻轉冬季淡季，打造 OMO 行銷典範 Sponsored by LINE Biz-Solutions ](https://www.bnext.com.tw/article/85462/decathlon1209) [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764575433-75167.jpg?w=600&output=webp) LINE Biz-Solutions Awards 2025揭獎，以數據驅動AI行銷創作樹立產業新典範 Sponsored by LINE Biz-Solutions ](https://www.bnext.com.tw/article/85325/awards20251201) [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765360876-62403.jpg?w=600&output=webp) NASA直播1.5億人都在聽！Wavv擁抱「副駕駛」思維，釋出千萬首AI爵士樂顛覆百年產業 Sponsored by Wavv ](https://www.bnext.com.tw/article/85493/wavv_mtpe) [ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765276677-82482.jpg?w=600&output=webp) 桃園驅動跨越場域與服務邊界 — 運動科技的創新商業模式與社會影響力 Sponsored by 桃園市體育發展基金會 ](https://www.bnext.com.tw/article/85474/2202512-batch02)
+[](https://www.bnext.com.tw/article/85462/decathlon1209) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765251529-99548.jpg?w=600&output=webp)
+## 快點行銷助 Decathlon 以 LINE 會員專屬活動翻轉冬季淡季，打造 OMO 行銷典範
 Sponsored by LINE Biz-Solutions
-[](https://www.bnext.com.tw/article/85318/linebizsolutionsawards20251201) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764570439-51143.jpg?w=600&output=webp)
-## 科技驅動創新轉型，信義房屋、Cancell 與 The North Face 以 LINE 優化營運績效
+[](https://www.bnext.com.tw/article/85325/awards20251201) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1764575433-75167.jpg?w=600&output=webp)
+## LINE Biz-Solutions Awards 2025揭獎，以數據驅動AI行銷創作樹立產業新典範
 Sponsored by LINE Biz-Solutions
+[](https://www.bnext.com.tw/article/85493/wavv_mtpe) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765360876-62403.jpg?w=600&output=webp)
+## NASA直播1.5億人都在聽！Wavv擁抱「副駕駛」思維，釋出千萬首AI爵士樂顛覆百年產業
+Sponsored by Wavv
+[](https://www.bnext.com.tw/article/85474/2202512-batch02) ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765276677-82482.jpg?w=600&output=webp)
+## 桃園驅動跨越場域與服務邊界 — 運動科技的創新商業模式與社會影響力
+Sponsored by 桃園市體育發展基金會
 [ 更多商業情報 » ](https://www.bnext.com.tw/marketnews)
 影音新聞 
-[ ![](https://i1.ytimg.com/vi/lOZyZV304Ck/maxresdefault.jpg) ](https://www.bnext.com.tw/video/1163) [ ![](https://i2.ytimg.com/vi/-N6o3P3M-o0/hqdefault.jpg) ](https://www.bnext.com.tw/video/1113) [ ![](https://i2.ytimg.com/vi/Q7mLw2bKsLI/hqdefault.jpg) ](https://www.bnext.com.tw/video/1085) [ ![](https://i4.ytimg.com/vi/3Zc6EKxNsLk/hqdefault.jpg) ](https://www.bnext.com.tw/video/989)
-[ #ai 關鍵材料，#ccl 是什麼？跟PCB差異是？概念股有哪些？｜TECH AWAY ](https://www.bnext.com.tw/video/1163) [ #自駕車 2兆美元超巨大商機，台灣瘋搶！「車子自己開」離我們還有多遠？｜解數一下 ](https://www.bnext.com.tw/video/1113) [ 是「真AI」還是噱頭？直擊UG如何用「AI製茶」顛覆手搖業、刷新台灣手搖營收天花板？ ](https://www.bnext.com.tw/video/1085) [ iPhone 17來了！Pro大變身、Air史上最輕薄，還有哪些亮點？｜20250910 ](https://www.bnext.com.tw/video/989)
+[ ![](https://i3.ytimg.com/vi/JdjhrGIAotU/maxresdefault.jpg) ](https://www.bnext.com.tw/video/1176) [ ![](https://i1.ytimg.com/vi/lOZyZV304Ck/maxresdefault.jpg) ](https://www.bnext.com.tw/video/1163) [ ![](https://i2.ytimg.com/vi/Q7mLw2bKsLI/hqdefault.jpg) ](https://www.bnext.com.tw/video/1085) [ ![](https://i4.ytimg.com/vi/3Zc6EKxNsLk/hqdefault.jpg) ](https://www.bnext.com.tw/video/989)
+[ 面試靠AI作弊？AI決定你能不能找到工作！求職市場大海嘯，員工跟老闆怎麼鬥法？｜解數一下 ](https://www.bnext.com.tw/video/1176) [ #ai 關鍵材料，#ccl 是什麼？跟PCB差異是？概念股有哪些？｜TECH AWAY ](https://www.bnext.com.tw/video/1163) [ 是「真AI」還是噱頭？直擊UG如何用「AI製茶」顛覆手搖業、刷新台灣手搖營收天花板？ ](https://www.bnext.com.tw/video/1085) [ iPhone 17來了！Pro大變身、Air史上最輕薄，還有哪些亮點？｜20250910 ](https://www.bnext.com.tw/video/989)
 [ 看更多 ](https://www.bnext.com.tw/videos)
 即時熱門文章
-[ 1 圖解｜人形機器人關鍵台廠出列！腦到腳6部位拆解，鴻海、新代⋯智造財賺起來 ](https://www.bnext.com.tw/article/85296/ai-new-beings) [ 2 Google釋出Nano Banana Pro黃金法則！財報圖、YouTube封面…9種專業級圖片提示詞一次收 ](https://www.bnext.com.tw/article/85387/google-nano-banana-pro-prompts) [ 3 教學｜NotebookLM簡報怎麼修改？用Canva、Lovart就能拆解圖層，完整步驟一次看 ](https://www.bnext.com.tw/article/85379/notebooklm-lovart-canva) [ 4 720萬用戶「還有一半沒來」！LINE Pay自立門戶才2天，一卡通火速出手LINE黃金版位 ](https://www.bnext.com.tw/article/85424/ipass-money-in-line-mini-app) [ 5 左拉東元、右抓軟銀、再邀OpenAI入局！揭秘鴻海三件合作案背後大棋 ](https://www.bnext.com.tw/article/85274/foxconn-teco-softbank-openai-ai-modular-datacenter) [ 6 Google推出「Workspace Studio」：不懂程式碼也OK！下提示詞就能打造 Gemini 3 驅動的AI代理團隊 ](https://www.bnext.com.tw/article/85396/google-workspace-studio-launch-automated-ai-agent-design-platform)
+[ 1 傳統市場3年倒閉91個！一位賣菜者的觀察：當「菜市仔」消失，我們失去的是什麼？ ](https://www.bnext.com.tw/article/85439/traditional-markets-are-declining) [ 2 陪你念書！9個Nano Banana Pro高效學習用法：視覺化複雜數學、生物概念，提示詞一次看 ](https://www.bnext.com.tw/article/85450/how-to-use-nano-banana-pro-to-study) [ 3 義美小公主不玩了！尚鵬年底分手SKODA，經銷商為何掀起一波「棄守潮」？ ](https://www.bnext.com.tw/article/85460/sunpon-end-partnership-with-skoda) [ 4 全聯押注次世代量販店、統一大開複合式商場，兩位老闆都看中這趨勢！從青埔店看懂零售新打法 ](https://www.bnext.com.tw/article/85492/retail-nextgen-trend) [ 5 Notion釋出提示詞懶人包，教你100個AI Agent實際應用情境，工作效率大飆升！ ](https://www.bnext.com.tw/article/85487/how-to-use-notion-ai-agents-100-practical-use-cases-guide) [ 6 霸總的標配車！世界上豪車這麼多，為什麼是邁巴赫？邁巴赫跟賓士是什麼關係？ ](https://www.bnext.com.tw/article/85437/maybach)
 追蹤我們
 [ ](https://www.facebook.com/bnextmedia) [ ](https://www.instagram.com/bnext_official/?hl=zh-tw) [ ](https://www.youtube.com/channel/UCEM0RnhFSxmk1vNQdNThYKQ) [ ](https://account.bnextmedia.com.tw/guest/subscribe?new_ids=7,8&utm_source=web_bn&utm_medium=side_icon&utm_campaign=epaper&tr_medium=website&tr_site_name=bn&tr_space=follow)
 [![](https://cdn.bnextmedia.com.tw/bn/images/icons/add_friend.png)](https://lin.ee/KSwVqFg)
-[ 虛擬實境 為一種結合電腦圖形、電腦仿真、人工智慧、感應、顯示及網路並列處理等技術的發展成果，利用電腦模擬產生三維空間的虛擬世界，提供使用者包括聽覺、觸覺等綜合可感知的人工環境，使得在視覺上產生一種沉浸於這個環境的感覺，可以直接觀察、操作、觸摸周圍環境及事物的內在變化，並能與之互動，讓使用者仿佛身歷其境。 看更多>>
+[ 人工智慧 「人工智慧」的概念是由美國科學家John McCarthy於1955年提出，目標為使電腦具有類似人類學習及解決複雜問題、抽象思考、展現創意等能力，能夠進行推理、規劃、學習、交流、感知和操作物體，應用領域非常廣泛，近年大行其道的個人語音助理如蘋果Siri、微軟Cortana，以及分別擊敗人類西洋棋與圍棋高手的IBM Deep Blue、Google DeepMind AlphaGo都是人工智慧研究的結晶，同時電腦作畫譜曲寫劇本等創造性事物也陸續出現。隨著研發技術飛速進展，人工智慧深入如醫療、金融等生活層面指日可待。 看更多>>
 * * *
-數說新語 ](https://www.bnext.com.tw/tags/%E8%99%9B%E6%93%AC%E5%AF%A6%E5%A2%83)
-[ 4千萬 人次 7-ELEVEN從2018年推出X-STORE至今，成功將實驗場域中的智能服務擴散到全台超過1,600個據點，來滿足不同商圈需求，累計吸引超過4千萬人次體驗。 看更多>>
+數說新語 ](https://www.bnext.com.tw/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7)
+[ 15億 歐元 歐盟執委會 (European Commission)通過法國政府對輝能高達15億歐元（約新台幣510億元）的補助案，將於2029年前分階段取得補助。 看更多>>
 * * *
-數字焦點 ](https://www.bnext.com.tw/article/76087/7-11-x-store-7)
+數字焦點 ](https://www.bnext.com.tw/article/76253/prologium-gigafactory-in-france)
 社群活動
-[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/img-1763615935-58429.jpg?w=600&output=webp) 11/20 Martech For Impact｜趨勢觀點、跨界合作、趨勢論壇 × 解方展示 ](https://edm.bnext.com.tw/martech-trends/main/)
-[ 12/17 【創業小聚#180】一口美味，一段創業｜年末好食光：端上桌的創業故事 ](https://eventgo.bnextmedia.com.tw/event/detail/e28745u69247b6351539) [ 01/27 1/27 AI Ready 管理實戰│降本增效的團隊工作流 ](https://edm.bnext.com.tw/aileader/)
+[ ![](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-12/img-1765350286-26138.jpg?w=600&output=webp) 01/27 1/27 AI Ready 管理實戰│降本增效的團隊工作流 ](https://edm.bnext.com.tw/aileader/)
+[ 12/17 【領導謀略】從行動者到造局者：升級謀略領導力│劉必榮談判攻略 ](https://edm.managertoday.com.tw/negotiation/) [ 02/03 2/3 GET職場必殺技│打造AI自動化工作流 ](https://edm.managertoday.com.tw/logic_of_ai/)
 [ ![](https://cdn.bnextmedia.com.tw/bn/images/web-logo.svg) ](https://www.bnext.com.tw)
 [ 會員登入 ](https://www.bnext.com.tw/auth/login)
 追蹤我們 [ ](https://www.facebook.com/bnextmedia) [ ](https://lin.ee/ORxr9l2) [ ](https://www.instagram.com/bnext_official/?hl=zh-tw) [ ](https://www.youtube.com/channel/UCEM0RnhFSxmk1vNQdNThYKQ) [ ](https://account.bnextmedia.com.tw/guest/subscribe?new_ids=7,8&utm_source=web_bn&utm_medium=menu_icon&utm_campaign=epaper&tr_medium=website&tr_site_name=bn&tr_space=menu)
@@ -376,11 +375,11 @@ Sponsored by LINE Biz-Solutions
 [登入看看](https://www.bnext.com.tw/auth/login?uri=https%3A%2F%2Fwww.bnext.com.tw&type=menu&type=general&from=)
 我還不是會員， [註冊](https://www.bnext.com.tw/auth/register?uri=https%3A%2F%2Fwww.bnext.com.tw&type=general&from=)去！ 
 熱門分類 
-[AI與大數據](https://www.bnext.com.tw/categories/ai) [金融科技](https://www.bnext.com.tw/categories/fintech) [半導體與電子產業](https://www.bnext.com.tw/categories/semiconductor) [影音/新媒體](https://www.bnext.com.tw/categories/media) [新零售](https://www.bnext.com.tw/categories/newretail)
+[新零售](https://www.bnext.com.tw/categories/newretail) [AI與大數據](https://www.bnext.com.tw/categories/ai) [電動車/交通科技](https://www.bnext.com.tw/categories/car) [職場/工作術](https://www.bnext.com.tw/categories/digitalskill) [創新創業](https://www.bnext.com.tw/categories/entrepreneurship)
 今日熱門 
-1 [圖解｜人形機器人關鍵台廠出列！腦到腳6部位拆解，鴻海、新代⋯智造財賺起來](https://www.bnext.com.tw/article/85296/ai-new-beings)
-2 [Google釋出Nano Banana Pro黃金法則！財報圖、YouTube封面…9種專業級圖片提示詞一次收](https://www.bnext.com.tw/article/85387/google-nano-banana-pro-prompts)
-3 [教學｜NotebookLM簡報怎麼修改？用Canva、Lovart就能拆解圖層，完整步驟一次看](https://www.bnext.com.tw/article/85379/notebooklm-lovart-canva)
+1 [傳統市場3年倒閉91個！一位賣菜者的觀察：當「菜市仔」消失，我們失去的是什麼？](https://www.bnext.com.tw/article/85439/traditional-markets-are-declining)
+2 [陪你念書！9個Nano Banana Pro高效學習用法：視覺化複雜數學、生物概念，提示詞一次看](https://www.bnext.com.tw/article/85450/how-to-use-nano-banana-pro-to-study)
+3 [義美小公主不玩了！尚鵬年底分手SKODA，經銷商為何掀起一波「棄守潮」？](https://www.bnext.com.tw/article/85460/sunpon-end-partnership-with-skoda)
 追蹤我們
 [ ](https://www.facebook.com/bnextmedia) [ ](https://lin.ee/ORxr9l2) [ ](https://www.instagram.com/bnext_official/?hl=zh-tw) [ ](https://www.youtube.com/channel/UCEM0RnhFSxmk1vNQdNThYKQ) [ ](https://account.bnextmedia.com.tw/guest/subscribe?new_ids=7,8&utm_source=web_bn&utm_medium=footer_icon&utm_campaign=epaper&tr_medium=website&tr_site_name=bn&tr_space=follow)
 [![進擊的機器人](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-11/hccq-1764145505.jpg?w=600&output=webp)](https://www.bnext.com.tw/magazine/view/130042)
@@ -408,11 +407,3 @@ X
 ![](https://edm.bnext.com.tw/epaper/images/logo/BN.png)
 掌握最新 AI 發展趨勢！
 立即訂閱《數位時代》日報、《一天一AI》圖解日報
-謝謝訂閱😊  
-祝你有美好的一天
-gmail.com
-hotmail.com.tw
-yahoo.com.tw
-請稍等
-![](https://cdn.bnextmedia.com.tw/assets/bnextmedia/circled-right.gif)
-訂閱即同意 [巨思文化隱私權政策](https://account.bnextmedia.com.tw/privacy-policy)
