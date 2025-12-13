@@ -24,9 +24,16 @@ https://youtube.com/live/rvDr2248zas
 
 ###2025_11_29_早上
 https://www.youtube.com/watch?v=xb2grOXh7Ho
-
+    09_00_使用 AI協助寫程式
+    10_30_開啟台灣高鐵
+    10_55_Python除錯
+    11_30_抓取最新消息
 ###2025_11_29_下午
 https://www.youtube.com/watch?v=Sfz_rldoXIg
+    13_40 將程式結構化
+    15_30 抓動態(AJAX)資料 
+    16_05 中文翻譯成英文
+    16_10 定位台北、台南
 
 ###2025_12_06_早上
 https://www.youtube.com/watch?v=ANFl9KExoSc
@@ -37,3 +44,15 @@ https://www.youtube.com/watch?v=ANFl9KExoSc
 
 ###2025_12_06_下午
 https://www.youtube.com/watch?v=yLRam3rxzEQ
+
+
+
+###2025_12_13_早上
+https://www.youtube.com/watch?v=dxBZ_nu5zW0
+
+
+###2025_12_13_下午
+https://www.youtube.com/watch?v=muYQKHTXe0I
+13_40 使用 AI產生程式與說明
+15_00 抓匯率
+15_50 streamlit(作網頁), 使用 AI產生
