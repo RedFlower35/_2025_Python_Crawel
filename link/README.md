@@ -44,3 +44,15 @@ https://www.youtube.com/watch?v=ANFl9KExoSc
 
 ###2025_12_06_下午
 https://www.youtube.com/watch?v=yLRam3rxzEQ
+
+
+
+###2025_12_13_早上
+https://www.youtube.com/watch?v=dxBZ_nu5zW0
+
+
+###2025_12_13_下午
+https://www.youtube.com/watch?v=muYQKHTXe0I
+13_40 使用 AI產生程式與說明
+15_00 抓匯率
+15_50 streamlit(作網頁), 使用 AI產生
