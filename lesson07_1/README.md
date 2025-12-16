@@ -3,7 +3,7 @@
 ## 📋 專案結構
 
 ```
-lession7_1/
+lesson7_1/
 ├── main.py              # Streamlit 主程式
 ├── crawler.py           # 匯率爬蟲模組
 ├── test_basic.py        # 基礎測試腳本
@@ -25,7 +25,7 @@ pip install streamlit crawl4ai pandas
 ### 2. 運行應用
 ```bash
 # 進入專案目錄
-cd lession7_1
+cd lesson7_1
 
 # 執行 Streamlit
 streamlit run main.py

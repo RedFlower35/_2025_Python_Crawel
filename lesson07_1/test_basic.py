@@ -2,7 +2,7 @@
 快速測試爬蟲和主程式邏輯
 """
 import sys
-sys.path.insert(0, r'd:\Study\2025_Python_Crawel\lession7_1')
+sys.path.insert(0, r'd:\Study\2025_Python_Crawel\lesson7_1')
 
 try:
     from crawler import get_mock_rates

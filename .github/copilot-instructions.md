@@ -13,10 +13,10 @@ This is a **Python web scraping course** (2025) at 台北市職能發展學院 t
 
 ### Lesson Progression Structure
 ```
-lession03/  → Basics (requests, parsing, static sites)
-lession04/  → Form interaction, navigation (forms, logins, waiting)
-lession05/  → Dynamic content, AJAX, wait strategies
-lession06/  → Advanced crawling with crawl4ai library
+lesson03/  → Basics (requests, parsing, static sites)
+lesson04/  → Form interaction, navigation (forms, logins, waiting)
+lesson05/  → Dynamic content, AJAX, wait strategies
+lesson06/  → Advanced crawling with crawl4ai library
 ```
 
 ## Key Patterns & Conventions
@@ -45,13 +45,13 @@ if __name__ == '__main__':
 - Use absolute file paths via `Path(__file__).parent` for local HTML demos
 
 ### 2. **Dynamic Content Handling**
-See [../lession05/lession5_1.py](../lession05/lession5_1.py) - demonstrates three wait strategies:
+See [../lesson05/lesson5_1.py](../lesson05/lesson5_1.py) - demonstrates three wait strategies:
 - `page.wait_for_load_state("networkidle")` → Network requests complete
 - `page.wait_for_selector(selector, state="visible|hidden")` → DOM state changes
 - `page.wait_for_function(js_condition)` → Custom JS conditions (AJAX polling)
 
 ### 3. **Async Pattern (Lesson 6)**
-[../lession06/lession6_3.py](../lession06/lession6_3.py) shows crawl4ai async approach:
+[../lesson06/lesson6_3.py](../lesson06/lesson6_3.py) shows crawl4ai async approach:
 ```python
 async def main():
     browser_config = BrowserConfig(headless=False)
@@ -64,7 +64,7 @@ async def main():
 
 ### Running Lessons
 - **Notebooks** (`.ipynb`): Run in Jupyter/VS Code notebook interface
-- **Python Scripts** (`.py`): Execute with `python lession0X/lession0X_Y.py`
+- **Python Scripts** (`.py`): Execute with `python lesson0X/lesson0X_Y.py`
 - **Test HTML Files**: Local demos use `file:///absolute/path` URLs with local HTML fixtures
 
 ### Debugging Patterns
@@ -82,12 +82,12 @@ uv sync
 ## File Organization Practices
 
 ### HTML Demo Files
-- [../lession04/form_demo.html](../lession04/form_demo.html), [../lession04/login_demo.html](../lession04/login_demo.html), [../lession04/waiting_demo.html](../lession04/waiting_demo.html)
+- [../lesson04/form_demo.html](../lesson04/form_demo.html), [../lesson04/login_demo.html](../lesson04/login_demo.html), [../lesson04/waiting_demo.html](../lesson04/waiting_demo.html)
 - Local fixture files for teaching specific interaction patterns
 - Accessed via `file://` protocol in Playwright
 
 ### Output Storage
-- [../lession06/output.md](../lession06/output.md): Example markdown output from crawl4ai
+- [../lesson06/output.md](../lesson06/output.md): Example markdown output from crawl4ai
 
 ## Critical Integration Points
 
