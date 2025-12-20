@@ -10,4 +10,5 @@ dependencies = [
     "streamlit>=1.28.0",
     "crawl4ai>=0.3.0",
     "pandas>=2.0.0",
+    "twstock>=1.4.0",
 ]
