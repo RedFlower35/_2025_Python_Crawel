@@ -130,10 +130,11 @@ class StockMonitorApp:
         watchlist = self.data_manager.get_watchlist()
         all_stock_data = self.data_manager.get_all_stock_data()
 
-        # 只顯示在觀察清單中且有有效資料的股票
+        # 顯示觀察清單中的所有股票（包括還沒資料的）
         displayed_data = {}
         for code in watchlist:
             if code in all_stock_data:
+                # 有資料，直接使用
                 stock_data = all_stock_data[code]
                 # 確保資料結構正確
                 if isinstance(stock_data, dict):
@@ -141,6 +142,21 @@ class StockMonitorApp:
                 else:
                     # 如果資料不正確，跳過此股票
                     print(f"⚠️  股票 {code} 資料格式錯誤，已跳過")
+            else:
+                # 沒有資料，建立佔位符（等待載入）
+                stock_name = self.stock_list_manager.get_stock_name(code)
+                displayed_data[code] = {
+                    "stock_code": code,
+                    "stock_name": stock_name,
+                    "success": False,
+                    "data": {
+                        "price": "載入中...",
+                        "change": "-",
+                        "change_percent": "-",
+                        "date": "-"
+                    },
+                    "timestamp": None
+                }
 
         self.ui.update_watchlist(displayed_data)
 
